@@ -1,0 +1,6 @@
+@startuml
+
+(Use case 1) <.. :user:
+(Use case 2) <- :user:
+
+@enduml
