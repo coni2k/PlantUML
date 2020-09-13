@@ -1,0 +1,8 @@
+@startuml
+
+foo -left-> dummyLeft
+foo -right-> dummyRight
+foo -up-> dummyUp
+foo -down-> dummyDown
+
+@enduml

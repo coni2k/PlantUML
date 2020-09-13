@@ -1,0 +1,6 @@
+@startuml
+
+Room o- Student
+Room *-- Chair
+
+@enduml

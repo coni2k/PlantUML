@@ -1,0 +1,6 @@
+@startuml
+
+class foo
+bar ()- foo
+
+@enduml
