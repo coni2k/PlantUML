@@ -1,0 +1,21 @@
+@startuml
+
+object demo {
+    * Bullet list
+    * Second item
+}
+note left
+    * Bullet list
+    * Second item
+    ** Sub item
+end note
+
+legend
+    # Numbered list
+    # Second item
+    ## Sub item
+    ## Another sub item
+    # Third item
+end legend
+
+@enduml

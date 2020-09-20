@@ -1,0 +1,15 @@
+@startuml
+
+Alice -> Bob : hello --there--
+... Some ~~long delay~~ ...
+Bob -> Alice : ok
+note left
+    This is **bold**
+    This is //italics//
+    This is ""monospaced""
+    This is --stroked--
+    This is __underlined__
+    This is ~~waved~~
+end note
+
+@enduml
