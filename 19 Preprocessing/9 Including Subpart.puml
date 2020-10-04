@@ -1,0 +1,6 @@
+@startuml
+
+title this contains only B and D
+!includesub 9 Including Subpart - File.puml!BASIC
+
+@enduml

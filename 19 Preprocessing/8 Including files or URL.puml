@@ -1,0 +1,6 @@
+@startuml
+
+!include 8 Including files or URL - List.iuml
+List <|.. ArrayList
+
+@enduml

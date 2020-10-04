@@ -1,0 +1,11 @@
+@startuml
+
+!unquoted procedure COMP_TEXTGENCOMP(name)
+    [name] << Comp >>
+    interface Ifc << IfcType >> AS name##Ifc
+    name##Ifc - [name]
+!endprocedure
+
+COMP_TEXTGENCOMP(dummy)
+
+@enduml

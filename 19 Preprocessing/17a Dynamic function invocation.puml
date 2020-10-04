@@ -1,0 +1,10 @@
+@startuml
+
+!procedure $go()
+    Bob -> Alice : hello
+!endprocedure
+!$wrapper = "$go"
+
+%invoke_procedure($wrapper)
+
+@enduml

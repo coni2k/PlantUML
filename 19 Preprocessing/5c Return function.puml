@@ -1,0 +1,14 @@
+@startuml
+
+!procedure $dummy()
+    !local $ijk = "local"
+    Alice -> Bob : $ijk
+!endprocedure
+
+!global $ijk = "foo"
+
+Alice -> Bob : $ijk
+$dummy()
+Alice -> Bob : $ijk
+
+@enduml
