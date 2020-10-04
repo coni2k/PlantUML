@@ -1,4 +1,4 @@
-' "testdot" is a special expression to test whether "GraphViz" tool is working.
+' "testdot" is a special expression to test whether "GraphViz" tool is working correctly.
 ' When you run the preview, you should see "Installation seems OK. File generation OK" message.
 ' For more info: https://plantuml.com/graphviz-dot
 @startuml
