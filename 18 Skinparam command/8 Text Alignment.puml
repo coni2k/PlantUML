@@ -1,0 +1,7 @@
+@startuml
+
+skinparam sequenceMessageAlign center
+Alice -> Bob : Hi
+Alice -> Bob : This is very long
+
+@enduml
