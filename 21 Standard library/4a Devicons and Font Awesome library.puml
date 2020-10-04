@@ -1,0 +1,17 @@
+' Repository: https://github.com/tupadr3/plantuml-icon-font-sprites
+' Note: The example is from the repository, and not from the documentation
+
+@startuml
+
+!define ICONURL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/v2.2.0
+!includeurl ICONURL/common.puml
+!includeurl ICONURL/devicons/mysql.puml
+!includeurl ICONURL/font-awesome/database.puml
+!includeurl ICONURL/font-awesome-5/database.puml
+
+DEV_MYSQL(db1)
+DEV_MYSQL(db2,label of db2)
+DEV_MYSQL(db3,label of db3,database)
+DEV_MYSQL(db4,label of db4,database,red) #DeepSkyBlue
+
+@enduml
