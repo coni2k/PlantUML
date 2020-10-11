@@ -32,15 +32,12 @@ GraphViz.puml should draw "Installation seems OK. File generation OK" message:
 
 ## Remarks
 
-I created the examples of the following diagrams but didn't test the results:
+* If a `function` has no return value, I had to change it to a `procedure` throughout the examples.
 
-* 13 Maths diagrams
-* 19.11 Logging
-* 19.12 Memory dump
-
-I couldn't create the following example due to unclear instructions:
-
-* 21.5 Google Material Icons
+* I created the examples of the following diagrams but didn't test the results:
+  * 13 Maths diagrams
+  * 19.11 Logging
+  * 19.12 Memory dump
 
 ## Contact
 
