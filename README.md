@@ -32,10 +32,13 @@ GraphViz.puml should draw "Installation seems OK. File generation OK" message:
 
 ## Remarks
 
+* To be able draw "Math" formulas (examples under Chapter 13)
+  * Download the additional [JLatexMath support jars](http://beta.plantuml.net/plantuml-jlatexmath.zip) from PlantUML website
+  * Unzip the extra jars into the same directory as plantuml.jar
+
 * If a `function` has no return value, I had to change it to a `procedure` throughout the examples.
 
 * I created the examples of the following diagrams but didn't test the results:
-  * 13 Maths diagrams
   * 19.11 Logging
   * 19.12 Memory dump
 
