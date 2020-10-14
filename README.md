@@ -1,8 +1,8 @@
+This is a personal reference repository for PlantUML, with all the examples in PlantUML Language Reference Guide. Feel free to use it, fork it, or send pull requests to update the examples.
+
 ## PlantUML
 
 PlantUML is an open source project that allows you to create UML diagrams, by using a simple and intuitive text language. It uses GraphViz software to draw its diagrams. Images can be generated in PNG, in SVG or in LaTeX format.
-
-This is a personal attempt to create a reference repository that contains all the examples in PlantUML Language Reference Guide. Feel free to use it, fork it, or send pull requests to update the examples.
 
 ## Links
 
