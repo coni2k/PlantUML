@@ -38,10 +38,6 @@ GraphViz.puml should draw "Installation seems OK. File generation OK" message:
 
 * If a `function` has no return value, I had to change it to a `procedure` throughout the examples.
 
-* I created the examples of the following diagrams but didn't test the results:
-  * 19.11 Logging
-  * 19.12 Memory dump
-
 ## Contact
 
 If you have any feedback, feel free to reach me on [Twitter](https://twitter.com/coni2k) or [LinkedIn](https://www.linkedin.com/in/serkanholat/).
