@@ -16,19 +16,19 @@ PlantUML is an open source project that allows you to create UML diagrams, by us
 * Language Reference Guide: 1.2019.9
 * VS Code extension: 2.13.14
 
-You can find the [current guide](https://github.com/coni2k/PlantUML/blob/master/0%20Docs/PlantUML_Language_Reference_Guide_en%20-%201.2019.9.pdf) under "0 Docs" folder.
+You can find the [current guide](https://github.com/coni2k/PlantUML/blob/master/_Docs/PlantUML_Language_Reference_Guide_en%20-%201.2019.9.pdf) under "_Docs" folder.
 
 ## Sanity checks
 
-After installing PlantUML & GraphViz tools, you can test them by creating the diagrams under "0 Docs" folder.
+After installing PlantUML & GraphViz tools, you can test them by creating the diagrams under "_Docs" folder.
 
 Hello.puml should draw the following diagram:
 
-![Hello](https://github.com/coni2k/PlantUML/blob/master/0%20Docs/Hello.png)
+![Hello](https://github.com/coni2k/PlantUML/blob/master/_Docs/Hello.png)
 
 GraphViz.puml should draw "Installation seems OK. File generation OK" message:
 
-![GraphViz](https://github.com/coni2k/PlantUML/blob/master/0%20Docs/GraphViz.png)
+![GraphViz](https://github.com/coni2k/PlantUML/blob/master/_Docs/GraphViz.png)
 
 ## Remarks
 
